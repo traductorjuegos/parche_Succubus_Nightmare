@@ -30,7 +30,7 @@ Este manual detalla paso a paso para parchear el juego Succubus Nightmare e incl
 5. Pulsa en PARCHEAR JUEGO.
 6. Tras parchear con éxito, pulsa JUGAR.
 
-## 11. Solución de Problemas Frecuentes
+## 3. Solución de Problemas Frecuentes
 
 
 ### Cuando voy a parchear sale un error y pide clave AES para desencriptar.
